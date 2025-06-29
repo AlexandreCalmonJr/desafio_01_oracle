@@ -21,8 +21,8 @@ O repositório está organizado da seguinte forma para facilitar a compreensão 
 └── 📜 README.md
 ```
 
-- **`dados/`**: Pasta contendo os quatro ficheiros `.csv` originais, cada um representando os dados de vendas de uma loja. (Nota: No notebook, estes dados foram carregados diretamente via URL para simplificar a execução).
-- **`AluraStoreBr.ipynb`**: O coração do projeto. Este Jupyter Notebook contém todo o código Python utilizado para a análise, desde a importação e limpeza dos dados até à geração dos gráficos e tabelas de resultados.
+- **`base-de-dados-challenge-1/`**: Pasta contendo os quatro ficheiros `.csv` originais, cada um representando os dados de vendas de uma loja. (Nota: No notebook, estes dados foram carregados diretamente via URL para simplificar a execução).
+- **`LojasSrJoão.ipynb`**: O coração do projeto. Este Jupyter Notebook contém todo o código Python utilizado para a análise, desde a importação e limpeza dos dados até à geração dos gráficos e tabelas de resultados.
 - **`README.md`**: Este ficheiro, que fornece uma documentação completa sobre o projeto.
 
 ## 3. Resumo dos Resultados
